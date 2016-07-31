@@ -14,6 +14,7 @@ class Todo extends Component {
           <li>Default index route</li>
           <li>Connect container to redux</li>
           <li>Think about example case</li>
+          <li>Take normalize.css from node_modules by webpack, not with import in index.js</li>
         </ul>
       </div>);
   }
